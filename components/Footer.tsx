@@ -11,7 +11,7 @@ export default function Footer(): JSX.Element {
       >
         <div className="flex items-center space-x-2">
           <span className="text-zinc-700 dark:text-zinc-300">
-            Made with love by Hack&Mate Team.
+            Hecho con amor por Hack&Mate Team.
           </span>
         </div>
       </a>
